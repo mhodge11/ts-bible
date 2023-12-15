@@ -1,0 +1,14 @@
+{
+  "name": "ts-bible",
+  "version": "1.0.0",
+  "description": "Collection of types and utility functions",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "license": "BSD-3-Clause",
+  "author": "Micah Hodge <micahhodgeutk@icloud.com> (https://github.com/mhodge11)"
+}
